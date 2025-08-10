@@ -6,10 +6,17 @@ It serves as a portfolio of my work, demonstrating skills in **data analysis, vi
 ---
 
 ## 📂 Contents
-- **Task 1:** [Brief description of task]  
-- **Task 2:** [Brief description of task]  
-- **Task 3:** [Brief description of task]  
-- *(Add more tasks as you go)*
+- **Task 1:** Sales Data Analysis
+**Description:**  
+Analyzed sales data to identify key performance trends, high-performing products, and revenue growth patterns. Performed data cleaning, aggregation, and visualization to present actionable insights for decision-making.
+
+**Skills Used:**  
+- Data cleaning & preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Visualization of trends and KPIs  
+
+**Tools:**  
+Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
 
 ---
 
