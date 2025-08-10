@@ -6,7 +6,7 @@ It serves as a portfolio of my work, demonstrating skills in **data analysis, vi
 ---
 
 ## 📂 Contents
-- **Task 1:** ### Sales Data Analysis
+- **Task 1:** **Sales Data Analysis**
 
 **Description:**  
 Analyzed sales data to identify key performance trends, high-performing products, and revenue growth patterns. Performed data cleaning, aggregation, and visualization to present actionable insights for decision-making.
