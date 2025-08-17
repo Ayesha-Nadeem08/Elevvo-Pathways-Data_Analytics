@@ -21,6 +21,22 @@ Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
 
 ---
 
+### **Task 2: Data Cleaning and Insight Generation from Survey Data**
+
+**Description:**  
+Worked on survey data collected from respondents. Focused on cleaning inconsistent entries, handling missing values, and standardizing responses. Generated insights into participants' preferences, behaviors, and patterns to support decision-making.
+
+**Skills Used:**  
+- Data cleaning & preprocessing  
+- Handling missing/inconsistent values  
+- Insight extraction & summarization  
+- Visualization of key findings  
+
+**Tools:**  
+Python (Pandas, NumPy, Seaborn), Excel, Jupyter Notebook  
+
+---
+
 ## 🛠 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn, etc.)
 - SQL
