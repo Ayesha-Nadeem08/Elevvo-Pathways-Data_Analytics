@@ -99,4 +99,4 @@ This internship provided hands-on experience in:
 ---
 
 ## 📄 License
-This project is for educational and portfolio purposes.  
+These projects are for educational and portfolio purposes.  
